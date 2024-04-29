@@ -20,9 +20,7 @@ Gerenciador de Tarefas, local para você usuário adicionar tarefas e poder geri
 
 ## Funcionalidades
 Se é possível adicionar e limpar as tarefas, como mostra o exemplo:
-
-
-https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/aeab5f4c-44af-4085-90d7-f8e0d5dbc262
+![gif](https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/19c83e4d-03b3-4c8e-a297-b451010d1d1e)
 
 
 ### Explicando Recursos do PHP
