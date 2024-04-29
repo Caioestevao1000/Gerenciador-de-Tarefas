@@ -21,11 +21,13 @@ Gerenciador de Tarefas, local para você usuário adicionar tarefas e poder geri
 Se é possível adicionar tarefas e limpar as tarefas colocadas.
 
 Adicionando:  
-![criar_tarefa](https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/d12354d4-4bf8-4689-98f5-a60dc726ec4b)
 
+https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/3ee659b7-1e1e-400b-8842-85d1c4c978ce
 
 Limpando:  
-![excluir_tarefa](https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/8ae67a84-30d5-412b-b27d-38322bb34c31)
+
+https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/be6d0ebd-1ce2-4084-a5fd-7c7dafa464e4
+
 
 
 ### Explicando Recursos do PHP
