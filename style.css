@@ -80,8 +80,8 @@ body {
     border-radius: 4px;
 }
 
-.fomr input:focus {
-    background-color: #bbb;
+.form input:focus {
+    background-color: #5fc7d7a2;
 }
 
 .form button {
