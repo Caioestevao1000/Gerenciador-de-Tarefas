@@ -10,7 +10,7 @@
   -->
 
 Projeto criado com base em atividade de Programação Web II. Escola Social Marista Ir. Acácio - Ensino Médio Técnico. Para avalição final do trimestre.
-![Capa do Projeto](img/tela_inicial.jpg)
+![Capa do Projeto](capa-projeto.png)
 
 
 ## Introdução
