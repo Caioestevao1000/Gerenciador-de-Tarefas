@@ -1,0 +1,163 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+:root {
+    --blue: #3777BC;
+    --blue-dark: #254976;
+    --cyan: #5fc8d7;
+    --green: #36b4bb;
+    --red: #F15B4E;
+    --yellow: #FDB933;
+}
+
+body {
+    background-color: #f3f3f5;
+    color: #333;
+    font-family: "Ubuntu", sans-serif;
+      /* .ubuntu-regular {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .ubuntu-medium {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      
+      .ubuntu-bold {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      */
+}
+
+.container {
+    background-color: white;
+    max-width: 450px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+}
+
+.header {
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 4px;
+     margin-bottom: 4px;
+}
+
+.form {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.form form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form label {
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.form input {
+    height: 32px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 12px;
+    border: 1px solid #999;
+    border-radius: 4px;
+}
+
+.fomr input:focus {
+    background-color: #bbb;
+}
+
+.form button {
+    background-color: var(--blue-dark)/*#AB47BC*/;
+    height: 32px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+    transition: 0.3s;
+}
+
+.form button:hover {
+    background-color: var(--blue) /*#CE93D8*/;
+}
+
+.separator {
+    background-color: #bbb;
+    height: 2px;
+    border-radius: 2px;
+}
+
+.list-tasks {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.list-tasks ul {
+    list-style: none;
+}
+
+.list-tasks ul li {
+    background-color: var(--cyan)/*#4DB6AC*/;
+    height: 54px;
+    border-radius: 4px;
+    color: white;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 12px;
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    transition: 0.3s;
+}
+
+.list-tasks ul li:hover {
+    background-color: var(--green)/*#80CBC4*/;
+}
+
+.btn-clear {
+    background-color: var(--red)/*#EF5350*/;
+    height: 32px;
+    border: none;
+    border-radius: 4px;
+    padding: 0 12px;
+    color: white;
+    
+    transition: 0,3s;
+}
+
+.btn-clear:hover {
+    background-color: #EF9A9A;
+}
+
+.footer {
+    background-color: #f0f0f5;
+    text-align: center;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+.footer p {
+    color: #999;
+    font-size: 12px;
+}
