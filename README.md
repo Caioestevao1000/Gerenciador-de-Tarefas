@@ -19,38 +19,32 @@ Gerenciador de Tarefas, local para você usuário adicionar tarefas e poder geri
 
 
 ## Funcionalidades
-Se é possível adicionar tarefas e limpar as tarefas colocadas.
+Se é possível adicionar e limpar as tarefas, como mostra o exemplo:
 
-Adicionando:  
 
-https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/3ee659b7-1e1e-400b-8842-85d1c4c978ce
-
-Limpando:  
-
-https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/be6d0ebd-1ce2-4084-a5fd-7c7dafa464e4
-
+https://github.com/Caioestevao1000/Gerenciador-de-Tarefas/assets/108750017/aeab5f4c-44af-4085-90d7-f8e0d5dbc262
 
 
 ### Explicando Recursos do PHP
 Aqui deixarei a explicação de algumas recursos usados:
 
-´´´isset´´´ : Determina se uma variável é declarada e é diferente de null
+``isset`` : Determina se uma variável é declarada e é diferente de null
 
-´´´$_SESSION´´´ :Uma matriz associativa contendo variáveis ​​de sessão disponíveis para o script atual.
+``$_SESSION`` :Uma matriz associativa contendo variáveis ​​de sessão disponíveis para o script atual.
 
-´´´foreach´´´ : Estrutura de repetição, usado para facilitar a interação com arrays e objetos.
+``foreach`` : Estrutura de repetição, usado para facilitar a interação com arrays e objetos.
 
-´´´session_start()´´´ :Inicia uma nova sessão ou resume uma sessão existente
+``session_start()`` :Inicia uma nova sessão ou resume uma sessão existente
 
-´´´array()´´´ : Armazena vários valores
+``array()`` : Armazena vários valores
 
-´´´array_push()´´´ : Adiciona mais elemento nos array
+``array_push()`` : Adiciona mais elemento nos array
 
-´´´$_GET´´´ : Variáveis ​​passadas para o script por meio dos parâmetros de URL.
+``$_GET`` : Variáveis ​​passadas para o script por meio dos parâmetros de URL.
 
-´´´var_dump()´´´ : Mostra informações sobre uma váriavel.
+``var_dump()`` : Mostra informações sobre uma váriavel.
 
-´´´unset()´´´ : Desativa uma variável
+``unset()`` : Desativa uma variável
 
 
 ## Tecnologia Utilizadas
