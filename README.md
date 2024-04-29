@@ -14,36 +14,38 @@ Projeto criado com base em atividade de Programação Web II. Escola Social Mari
 
 
 ## Introdução
-Gerenciador de Tarefas, 
+Gerenciador de Tarefas, local para você usuário adicionar tarefas e poder gerir algumas atividades do dia a dia.
 
 
 ## Funcionalidades
-Se é possivel adicionar tarefas e limpar as tarefas colocadas.
+Se é possível adicionar tarefas e limpar as tarefas colocadas.
 
 Adicionando:
+![video Criação](img/criação_tarefa.mp4)
 
 Limpando:
+![video Criação](img/excluir_tarefa.mp4)
 
 ### Explicando Recursos do PHP
 Aqui deixarei a explicação de algumas recursos usados:
 
-'''isset''' :
+´´´isset´´´ : Determina se uma variável é declarada e é diferente de null
 
-'''$SESSION''' :
+´´´$_SESSION´´´ :Uma matriz associativa contendo variáveis ​​de sessão disponíveis para o script atual.
 
-'''foreach''' : Repete o trabalho quantas vezes necessário, indo de acordo com algum array  
+´´´foreach´´´ : Estrutura de repetição, usado para facilitar a interação com arrays e objetos.
 
-'''session_start()''' :
+´´´session_start()´´´ :Inicia uma nova sessão ou resume uma sessão existente
 
-'''array()''' :
+´´´array()´´´ : Armazena vários valores
 
-'''$_GET''' : Método de envio do PHP para o HTML.
+´´´array_push()´´´ : Adiciona mais elemento nos array
 
-'''array_push()''' :
+´´´$_GET´´´ : Variáveis ​​passadas para o script por meio dos parâmetros de URL.
 
-'''var_dump()''' : Mostra o que a váriavel está armazenando
+´´´var_dump()´´´ : Mostra informações sobre uma váriavel.
 
-'''unset()''' :
+´´´unset()´´´ : Desativa uma variável
 
 
 ## Tecnologia Utilizadas
@@ -52,6 +54,9 @@ Aqui deixarei a explicação de algumas recursos usados:
 - :heavy_check_mark: [PHP]
 - :heavy_check_mark: [GIT]
 
+
+## Fontes Consultadas
+- PHP: [php.net](https://www.php.net/)
 
 ## Créditos
 Desenvolvedor do Código: Monolito PHP
