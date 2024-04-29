@@ -26,23 +26,23 @@ Se é possível adicionar e limpar as tarefas, como mostra o exemplo:
 ### Explicando Recursos do PHP
 Aqui deixarei a explicação de algumas recursos usados:
 
-``isset`` : Determina se uma variável é declarada e é diferente de null
+``isset`` : Determina se uma variável é declarada e é diferente de null;
 
-``$_SESSION`` :Uma matriz associativa contendo variáveis ​​de sessão disponíveis para o script atual.
+``$_SESSION`` :Uma matriz associativa contendo variáveis ​​de sessão disponíveis para o script atual;
 
-``foreach`` : Estrutura de repetição, usado para facilitar a interação com arrays e objetos.
+``foreach`` : Estrutura de repetição, usado para facilitar a interação com arrays e objetos;
 
-``session_start()`` :Inicia uma nova sessão ou resume uma sessão existente
+``session_start()`` :Inicia uma nova sessão ou resume uma sessão existente;
 
-``array()`` : Armazena vários valores
+``array()`` : Armazena vários valores;
 
-``array_push()`` : Adiciona mais elemento nos array
+``array_push()`` : Adiciona mais elemento nos array;
 
-``$_GET`` : Variáveis ​​passadas para o script por meio dos parâmetros de URL.
+``$_GET`` : Variáveis ​​passadas para o script por meio dos parâmetros de URL;
 
-``var_dump()`` : Mostra informações sobre uma váriavel.
+``var_dump()`` : Mostra informações sobre uma váriavel;
 
-``unset()`` : Desativa uma variável
+``unset()`` : Desativa uma variável.
 
 
 ## Tecnologia Utilizadas
